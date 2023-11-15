@@ -7,7 +7,7 @@ Bu Proje kapsamında gezgin satıcı problemi **5**, **124**, **1000**, **5915**
 .NET Core SDK
 
 # Kullanım
-dotnet Program.cs
+dotnet run
 
 ## 5 Boyutlu Veri Seti İçin:
 
