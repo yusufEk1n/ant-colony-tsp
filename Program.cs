@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 using TravellingSalesman.algorithms;
-using TravellingSalesman.Model;
+using TravellingSalesman.models;
 
 namespace TravellingSalesman
 {

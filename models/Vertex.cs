@@ -1,4 +1,4 @@
-namespace TravellingSalesman.Model
+namespace TravellingSalesman.models
 {
     public class Vertex
     {

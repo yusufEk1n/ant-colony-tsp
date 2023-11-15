@@ -1,4 +1,4 @@
-using TravellingSalesman.Model;
+using TravellingSalesman.models;
 
 namespace TravellingSalesman.algorithms
 {
